@@ -1,6 +1,6 @@
 # Student Product Billing & Management System
 
-**Name:** [Insert Your Full Name Here]
+**Name:** Akash Kumar
 **Date:** 2026-04-13
 
 ## Concepts Used
